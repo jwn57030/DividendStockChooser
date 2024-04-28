@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jwn_5\\source\\repos\\DividendStockAdvisor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02A65733-CC66-4AF9-8320-5E08E74CB568}|DividendStockAdvisor.csproj|c:\\users\\jwn_5\\source\\repos\\dividendstockadvisor\\stockchooser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A65733-CC66-4AF9-8320-5E08E74CB568}|DividendStockAdvisor.csproj|solutionrelative:stockchooser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A65733-CC66-4AF9-8320-5E08E74CB568}|DividendStockAdvisor.csproj|c:\\users\\jwn_5\\source\\repos\\dividendstockadvisor\\excelhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A65733-CC66-4AF9-8320-5E08E74CB568}|DividendStockAdvisor.csproj|solutionrelative:excelhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A65733-CC66-4AF9-8320-5E08E74CB568}|DividendStockAdvisor.csproj|c:\\users\\jwn_5\\source\\repos\\dividendstockadvisor\\investmentdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A65733-CC66-4AF9-8320-5E08E74CB568}|DividendStockAdvisor.csproj|solutionrelative:investmentdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A65733-CC66-4AF9-8320-5E08E74CB568}|DividendStockAdvisor.csproj|c:\\users\\jwn_5\\source\\repos\\dividendstockadvisor\\recentlysolditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A65733-CC66-4AF9-8320-5E08E74CB568}|DividendStockAdvisor.csproj|solutionrelative:recentlysolditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A65733-CC66-4AF9-8320-5E08E74CB568}|DividendStockAdvisor.csproj|c:\\users\\jwn_5\\source\\repos\\dividendstockadvisor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A65733-CC66-4AF9-8320-5E08E74CB568}|DividendStockAdvisor.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A65733-CC66-4AF9-8320-5E08E74CB568}|DividendStockAdvisor.csproj|c:\\users\\jwn_5\\source\\repos\\dividendstockadvisor\\investmentdatabaseitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A65733-CC66-4AF9-8320-5E08E74CB568}|DividendStockAdvisor.csproj|solutionrelative:investmentdatabaseitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A65733-CC66-4AF9-8320-5E08E74CB568}|DividendStockAdvisor.csproj|c:\\users\\jwn_5\\source\\repos\\dividendstockadvisor\\stringextensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A65733-CC66-4AF9-8320-5E08E74CB568}|DividendStockAdvisor.csproj|solutionrelative:stringextensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExcelHelper.cs",
+              "DocumentMoniker": "C:\\Users\\jwn_5\\source\\repos\\DividendStockAdvisor\\ExcelHelper.cs",
+              "RelativeDocumentMoniker": "ExcelHelper.cs",
+              "ToolTip": "C:\\Users\\jwn_5\\source\\repos\\DividendStockAdvisor\\ExcelHelper.cs",
+              "RelativeToolTip": "ExcelHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T03:12:54.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RecentlySoldItem.cs",
+              "DocumentMoniker": "C:\\Users\\jwn_5\\source\\repos\\DividendStockAdvisor\\RecentlySoldItem.cs",
+              "RelativeDocumentMoniker": "RecentlySoldItem.cs",
+              "ToolTip": "C:\\Users\\jwn_5\\source\\repos\\DividendStockAdvisor\\RecentlySoldItem.cs",
+              "RelativeToolTip": "RecentlySoldItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T01:47:50.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StockChooser.cs",
+              "DocumentMoniker": "C:\\Users\\jwn_5\\source\\repos\\DividendStockAdvisor\\StockChooser.cs",
+              "RelativeDocumentMoniker": "StockChooser.cs",
+              "ToolTip": "C:\\Users\\jwn_5\\source\\repos\\DividendStockAdvisor\\StockChooser.cs",
+              "RelativeToolTip": "StockChooser.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T17:56:29.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StringExtensionMethods.cs",
+              "DocumentMoniker": "C:\\Users\\jwn_5\\source\\repos\\DividendStockAdvisor\\StringExtensionMethods.cs",
+              "RelativeDocumentMoniker": "StringExtensionMethods.cs",
+              "ToolTip": "C:\\Users\\jwn_5\\source\\repos\\DividendStockAdvisor\\StringExtensionMethods.cs",
+              "RelativeToolTip": "StringExtensionMethods.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T17:56:23.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InvestmentDatabaseItem.cs",
+              "DocumentMoniker": "C:\\Users\\jwn_5\\source\\repos\\DividendStockAdvisor\\InvestmentDatabaseItem.cs",
+              "RelativeDocumentMoniker": "InvestmentDatabaseItem.cs",
+              "ToolTip": "C:\\Users\\jwn_5\\source\\repos\\DividendStockAdvisor\\InvestmentDatabaseItem.cs",
+              "RelativeToolTip": "InvestmentDatabaseItem.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwG0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T00:58:06.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InvestmentDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\jwn_5\\source\\repos\\DividendStockAdvisor\\InvestmentDatabase.cs",
+              "RelativeDocumentMoniker": "InvestmentDatabase.cs",
+              "ToolTip": "C:\\Users\\jwn_5\\source\\repos\\DividendStockAdvisor\\InvestmentDatabase.cs",
+              "RelativeToolTip": "InvestmentDatabase.cs",
+              "ViewState": "AQIAALIAAAAAAAAAAAAYwOAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T11:19:22.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jwn_5\\source\\repos\\DividendStockAdvisor\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jwn_5\\source\\repos\\DividendStockAdvisor\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T19:49:50.529Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

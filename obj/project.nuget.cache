@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "M2YgGCIp5uPqrzufP9VDzboP1YyMbGHIVJAmw8fWM73eQD4u6Pj7LBCfU8go300ddVlJK2i2eFk55fnrAmkxlA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jwn_5\\source\\repos\\DividendStockAdvisor\\DividendStockAdvisor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jwn_5\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.2\\microsoft.dotnet.ilcompiler.8.0.2.nupkg.sha512",
+    "C:\\Users\\jwn_5\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.3\\microsoft.net.illink.tasks.8.0.3.nupkg.sha512",
+    "C:\\Users\\jwn_5\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.2\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
